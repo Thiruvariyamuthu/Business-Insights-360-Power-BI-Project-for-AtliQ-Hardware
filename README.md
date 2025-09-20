@@ -45,10 +45,11 @@ As the Data Analyst, I:
 ## 📈 Dashboard Views
 
 ### 💰 Finance View
-- Profit & Loss statements  
-- Net Sales, Gross Margin %, Net Profit % vs Target & LY  
-- Top/Bottom customers & products  
-
+- Key financial metrics like Net Sales, Gr oss Margin (GM%), and Net Profit (NP%) are shown with comparisons to the last year (LY) and target. 
+- A Net Sales Performance Over Time chart visualizes monthly sales trends. 
+- A Profit & Loss Statement provides a detailed breakdown of revenues, costs, and profits.
+- A chart highlights the Top/Bottom Customers & Products based on net sales.
+  
 ![Dashboard Overview](https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Finance%20View.png)
 
 ### 🤝 Sales View
