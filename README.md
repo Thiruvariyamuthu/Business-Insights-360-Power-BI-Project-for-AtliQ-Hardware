@@ -45,7 +45,7 @@ As the Data Analyst, I:
 ## 📈 Dashboard Views
 
 ### 💰 Finance View
-- Key financial metrics like Net Sales, Gr oss Margin (GM%), and Net Profit (NP%) are shown with comparisons to the last year (LY) and target. 
+- Key financial metrics like Net Sales, Gross Margin (GM%), and Net Profit (NP%) are shown with comparisons to the last year (LY) and target. 
 - A Net Sales Performance Over Time chart visualizes monthly sales trends. 
 - A Profit & Loss Statement provides a detailed breakdown of revenues, costs, and profits.
 - A chart highlights the Top/Bottom Customers & Products based on net sales.
