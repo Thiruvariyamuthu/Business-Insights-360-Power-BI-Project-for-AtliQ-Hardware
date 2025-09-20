@@ -49,25 +49,35 @@ As the Data Analyst, I:
 - Net Sales, Gross Margin %, Net Profit % vs Target & LY  
 - Top/Bottom customers & products  
 
+![Dashboard Overview] (https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Finance%20View.png)
+
 ### 🤝 Sales View
 - Customer & product performance matrix  
 - Unit economics and sales patterns  
 - Expansion opportunities across regions  
+
+![Dashboard Overview] (https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Sales%20View.png)
 
 ### 📣 Marketing View
 - ROI of promotions & ad spend  
 - Market share growth vs competitors  
 - Division-wise profitability insights  
 
+![Dashboard Overview] (https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Marketing%20View.png)
+
 ### ⛓️ Supply Chain View
 - Forecast accuracy & net error trends  
 - Inventory issues: excess vs out-of-stock  
 - Recommendations for optimization  
 
+![Dashboard Overview] (https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Supply%20Chain%20View.png)
+
 ### 🧑‍💼 Executive View
 - One-page KPI summary for C-levels  
 - Revenue, GM%, NP%, Market Share trends  
 - Top 5 customers & products  
+
+![Dashboard Overview] (https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Executive%20View.png)
 
 ---
 
