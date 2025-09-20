@@ -1,7 +1,6 @@
-# Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware
+# 📊 Business Insights 360 – Power BI Project for AtliQ Hardware
 End-to-end Power BI project for AtliQ Hardware—finance, sales, marketing, supply chain &amp; executive insights.
 
-# 📊 Business Insights 360 – Power BI Project for AtliQ Hardware
 🚀 Turning guesswork into data-driven growth
 
 # AtliQ Hardware BI Project
