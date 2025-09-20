@@ -98,7 +98,8 @@ As the Data Analyst, I:
 - **Power BI**: Data modeling, DAX, KPIs, visuals, bookmarks, navigation  
 - **SQL**: Extracting, transforming, and joining datasets from MySQL  
 - **Excel/CSV**: Handling targets, market share & external datasets  
-- **Power Query (ETL)**: Data cleaning and transformations  
+- **Power Query (ETL)**: Data cleaning and transformations
+- **DAX Studio**: Performance tuning and query optimization  
 - **Data Storytelling**: Turning dashboards into actionable insights  
 
 ---
