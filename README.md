@@ -53,30 +53,31 @@ As the Data Analyst, I:
 ![Dashboard Overview](https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Finance%20View.png)
 
 ### 🤝 Sales View
-- Customer & product performance matrix  
-- Unit economics and sales patterns  
-- Expansion opportunities across regions  
+- A Performance Matrix plots Gross Margin against Net Sales for different stores and regions.
+- The Customer Performance table shows Net Sales (),GrossMargin(), and GM% for individual customers.
+- Unit Economics are detailed in a donut chart, breaking down total COGS (Cost of Goods Sold), Gross Margin, and Net Sales. 
 
 ![Dashboard Overview](https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Sales%20View.png)
 
 ### 📣 Marketing View
-- ROI of promotions & ad spend  
-- Market share growth vs competitors  
-- Division-wise profitability insights  
-
+- Market Performance is visualized on a scatter plot, showing Net Profit % across different markets (countries).
+- A table provides a detailed view of Net Sales, Gross Margin, and Net Profit for various countries and segments. 
+- A Net Sales & Gross Margin Bifurcation chart shows the relationship between Gross Margin, Operational Expense, and Net Profit
+  
 ![Dashboard Overview](https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Marketing%20View.png)
 
 ### ⛓️ Supply Chain View
-- Forecast accuracy & net error trends  
-- Inventory issues: excess vs out-of-stock  
-- Recommendations for optimization  
+- Forecast Accuracy and Net Error are the main metrics, with a trend chart showing performance over time.
+- Key Metrics by Customer and by Product tables show forecast accuracy (FCA), net error, and a risk assessment (e.g., Excess Inventory or Out-of-Stock).  
+- The data helps in identifying inventory issues and optimizing supply chain operations.
 
 ![Dashboard Overview](https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Supply%20Chain%20View.png)
 
 ### 🧑‍💼 Executive View
-- One-page KPI summary for C-levels  
-- Revenue, GM%, NP%, Market Share trends  
-- Top 5 customers & products  
+- A high-level summary of all key metrics including Net Sales, GM%, NP%, and Forecast Accuracy.
+- Trends over time for revenue contribution, GM%, and NP% are displayed on line and bar charts. 
+- Tables provide a quick look at the Top 5 Customers & Products based on revenue contribution and Gross Margin.
+- Sub-region performance is summarized in a single table, showing a quick comparison of financial health and risk across different geographic areas.
 
 ![Dashboard Overview](https://github.com/Thiruvariyamuthu/Business-Insights-360-Power-BI-Project-for-AtliQ-Hardware/blob/main/Executive%20View.png)
 
