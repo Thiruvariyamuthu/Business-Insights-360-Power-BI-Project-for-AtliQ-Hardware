@@ -17,7 +17,7 @@ This project demonstrates how I, as a **Data Analyst**, built an **end-to-end BI
 
 - **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNlODYyYTgtZmZkYy00N2YwLWFiMTQtMWVkMmE2YmNhOWJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 - **[Video Presentation](https://youtu.be/WRrv7kwbcxg?si=ikZVAdNYX-81SOQ_)**  
-- **[LinkedIn Post](#)**  
+- **[LinkedIn Post](https://www.linkedin.com/posts/thiruvariyamuthu_business-insights-360-activity-7375725307422691329-jePr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPY-yABJ40C9UnUqbX3G-jiPZWpYugDDJk)**  
 
 ---
 
